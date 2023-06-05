@@ -15,3 +15,9 @@ This GitHub repository provides a web-based platform for users to upload and ana
    analysis.
   - *<ins>Data Export</ins>*: The platform provides functionality to export the results of the executed PostgreSQL queries in various formats for
    further analysis or sharing.
+
+### **Imported Datasets**
+
+| Title | Last Update | Action
+|--|--|--|
+| [Hindi Feature Films (1913-2023)](https://github.com/code-flu/postgreson/tree/main/datasets/hindi-movies.json) | 06-Jun-2023 | [Analyze](https://www.codeflu.com/postgreson.new)
