@@ -1,6 +1,6 @@
 # Postgreson - upload, analyze and export
 
- `Try It Now -` [LIVE](https://www.codeflu.com/postgreson)
+ `Try It Now -` [LIVE](https://www.codeflu.com/postgreson/new)
 
 This GitHub repository provides a web-based platform for users to upload and analyze JSON datasets. Users can upload datasets up to a size of 4MB and perform various data analysis tasks. The platform offers visualization of the data in a D3 tree graph and automatically generates a table for easy data exploration. Additionally, users can execute PostgreSQL queries to further analyze the data and export the results.
 
