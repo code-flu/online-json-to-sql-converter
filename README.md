@@ -1,8 +1,8 @@
-# Postgreson - upload, analyze and export
+# Online JSON to SQL Converter: Run SQL Queries on Nested JSON Data Instantly
 
  `Try It Now -` [LIVE](https://www.codeflu.com/postgreson/new)
 
-This GitHub repository provides a web-based platform for users to upload and analyze JSON datasets. Users can upload datasets up to a size of 4MB and perform various data analysis tasks. The platform offers visualization of the data in a D3 tree graph and automatically generates a table for easy data exploration. Additionally, users can execute PostgreSQL queries to further analyze the data and export the results.
+Effortlessly convert JSON to SQL and run SQL queries on nested JSON data online. Our online JSON to SQL Converter provides a user-friendly interface to explore complex hierarchical JSON structures. Visualize and analyze your data with ease, extract specific information using familiar SQL syntax, and export results instantly. Simplify your data exploration and enhance analysis with our intuitive tool.
 
 **Features**
  
