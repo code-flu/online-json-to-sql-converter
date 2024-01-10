@@ -1,6 +1,8 @@
 # Online JSON to SQL Converter: Run SQL Queries on Nested JSON Data Instantly
 
- `Try It Now -` https://www.codeflu.com/JsonToSql
+![json-to-sql](https://github.com/code-flu/online-json-to-sql-converter/assets/104217888/d9ec2ba5-d14a-46cf-bfb7-0ddb2620d799)
+
+`Try It Now -` https://www.codeflu.com/JsonToSql
 
 Effortlessly convert JSON to SQL and run SQL queries on nested JSON data online. Our online JSON to SQL Converter provides a user-friendly interface to explore complex hierarchical JSON structures. Visualize and analyze your data with ease, extract specific information using familiar SQL syntax, and export results instantly. Simplify your data exploration and enhance analysis with our intuitive tool.
 
