@@ -1,18 +1,41 @@
-# Online JSON to SQL Converter: Run SQL Queries on Nested JSON Data Instantly
+# [JSON to SQL Converter](http://codeflu.com/json-to-sql)
 
-![json-to-sql](https://github.com/code-flu/online-json-to-sql-converter/assets/104217888/d9ec2ba5-d14a-46cf-bfb7-0ddb2620d799)
+**JSON to SQL Converter**  is a powerful, free online tool designed for developers, analysts, and IT professionals to seamlessly convert, visualize, and query JSON data as SQL tables. Instantly transform complex JSON files into interactive database schemas, build SQL queries visually, and export results in multiple formats—all from your browser.
 
-`Try It Now -` https://www.codeflu.com/JsonToSql
+Try it now [codeflu.com/json-to-sql](https://codeflu.com/json-to-sql)
 
-Effortlessly convert JSON to SQL and run SQL queries on nested JSON data online. Our online JSON to SQL Converter provides a user-friendly interface to explore complex hierarchical JSON structures. Visualize and analyze your data with ease, extract specific information using familiar SQL syntax, and export results instantly. Simplify your data exploration and enhance analysis with our intuitive tool.
+## Features
 
-**Features**
- 
- - *<ins>Json Upload</ins>*: Users can upload JSON up to 2MB in size.
-  - <ins>*Auto-Generated Table</ins>*: The platform automatically generates tables for the uploaded json, enabling users to browse and analyze the
-   data in a tabular format.
- - *<ins>Hierarchical Table Visualization</ins>*: The updated JSON is dynamically visualized in a table format, utilizing ReactFlow to represent the hierarchical structure. Each JSON node corresponds to a separate table, and users have the capability to generate child tables by interacting with parent nodes, providing a comprehensive and interactive exploration of the data's hierarchy.
-  - *<ins>Querying Tables</ins>*: Users can execute postgres queries on the generated tables, leveraging the power of SQL for advanced data
-   analysis.
-  - *<ins>Data Export</ins>*: The platform provides functionality to export the results of the executed PostgreSQL queries in json and csv formats for
-   further analysis or sharing.
+-   **Instant JSON-to-SQL Conversion**: Upload your JSON file and generate a relational schema with tables and columns, ready for SQL querying.
+-   **Interactive Schema Visualization**: Explore your data structure with a dynamic graph view powered by React Flow and Dagre, making relationships and foreign keys easy to understand.
+-   **Visual Query Builder**: Rich interface to select columns, apply filters, group, order, and limit results—no SQL expertise required.
+-   **Advanced SQL Functions**: Apply built-in PostgreSQL functions (aggregation, string, array, math, etc.) directly to your columns.
+-   **Live Query Execution**: Run SQL queries and view results instantly in a feature-rich data grid.
+-   **Export & Share**: Download query results as JSON or CSV, or print directly from the browser.
+-   **Schema Management**: View, edit, or delete schemas; inspect the generated schema in JSON format.
+-   **Feedback & Help**: Integrated feedback form and video tutorials to guide your experience.
+
+## Why Choose Codeflu?
+
+-   **100% Free**: No hidden limits, no credit card required.
+-   **No Installation**: Works entirely in your browser—just upload and go.
+-   **Productivity Focused**: Built for speed, clarity, and ease of use.
+-   **Secure**: Your data is processed securely; no login required for advanced features.
+-   **Community Driven**: We value your feedback—help us shape the future of Codeflu!
+
+## Get Started
+
+1.  Visit  [codeflu.com/json-to-sql](https://codeflu.com/json-to-sql)
+2.  Upload your JSON file.
+3.  Explore your schema, build queries, and export results.
+
+## Supported Use Cases
+
+-   Data migration and ETL prototyping
+-   Rapid analytics on nested JSON
+-   Learning SQL with real-world data
+-   Sharing and collaborating on data models
+
+----------
+
+Try Codeflu's JSON to SQL Converter today and supercharge your data workflow!
